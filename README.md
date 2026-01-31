@@ -18,3 +18,6 @@ A base é composta por testes unitários, o meio por testes de integração/API 
 
 ## 🚀 Objetivo deste repositório
 Servir como base de estudo e evolução na área de Quality Assurance.
+
+## 🧠 Visão de QA
+A qualidade deve ser pensada desde o início do desenvolvimento. O QA contribui levantando riscos, validando regras de negócio e garantindo a melhor experiência para o usuário.
